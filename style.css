@@ -1,0 +1,13 @@
+button{
+    width: 150px;
+    background-color: rgb(215, 95, 21);
+    color: beige;
+
+}
+button:hover{
+    background-color: brown;
+}
+fieldset{
+    width: 100px;
+    border-color: black;
+}
